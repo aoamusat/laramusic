@@ -1,0 +1,376 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\laragon\\bin\\nodejs\\node.exe',
+1 verbose cli   'C:\\laragon\\bin\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@3.10.3
+3 info using node@v6.4.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData bootstrap-sass
+20 silly mapToRegistry name bootstrap-sass
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: 'bootstrap-sass',
+23 silly mapToRegistry   scope: null,
+23 silly mapToRegistry   escapedName: 'bootstrap-sass',
+23 silly mapToRegistry   name: 'bootstrap-sass',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://registry.npmjs.org/bootstrap-sass
+25 silly fetchNamedPackageData jquery
+26 silly mapToRegistry name jquery
+27 silly mapToRegistry using default registry
+28 silly mapToRegistry registry https://registry.npmjs.org/
+29 silly mapToRegistry data Result {
+29 silly mapToRegistry   raw: 'jquery',
+29 silly mapToRegistry   scope: null,
+29 silly mapToRegistry   escapedName: 'jquery',
+29 silly mapToRegistry   name: 'jquery',
+29 silly mapToRegistry   rawSpec: '',
+29 silly mapToRegistry   spec: 'latest',
+29 silly mapToRegistry   type: 'tag' }
+30 silly mapToRegistry uri https://registry.npmjs.org/jquery
+31 silly fetchNamedPackageData laravel-elixir
+32 silly mapToRegistry name laravel-elixir
+33 silly mapToRegistry using default registry
+34 silly mapToRegistry registry https://registry.npmjs.org/
+35 silly mapToRegistry data Result {
+35 silly mapToRegistry   raw: 'laravel-elixir',
+35 silly mapToRegistry   scope: null,
+35 silly mapToRegistry   escapedName: 'laravel-elixir',
+35 silly mapToRegistry   name: 'laravel-elixir',
+35 silly mapToRegistry   rawSpec: '',
+35 silly mapToRegistry   spec: 'latest',
+35 silly mapToRegistry   type: 'tag' }
+36 silly mapToRegistry uri https://registry.npmjs.org/laravel-elixir
+37 silly fetchNamedPackageData laravel-elixir-vue-2
+38 silly mapToRegistry name laravel-elixir-vue-2
+39 silly mapToRegistry using default registry
+40 silly mapToRegistry registry https://registry.npmjs.org/
+41 silly mapToRegistry data Result {
+41 silly mapToRegistry   raw: 'laravel-elixir-vue-2',
+41 silly mapToRegistry   scope: null,
+41 silly mapToRegistry   escapedName: 'laravel-elixir-vue-2',
+41 silly mapToRegistry   name: 'laravel-elixir-vue-2',
+41 silly mapToRegistry   rawSpec: '',
+41 silly mapToRegistry   spec: 'latest',
+41 silly mapToRegistry   type: 'tag' }
+42 silly mapToRegistry uri https://registry.npmjs.org/laravel-elixir-vue-2
+43 silly fetchNamedPackageData laravel-elixir-webpack-official
+44 silly mapToRegistry name laravel-elixir-webpack-official
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://registry.npmjs.org/
+47 silly mapToRegistry data Result {
+47 silly mapToRegistry   raw: 'laravel-elixir-webpack-official',
+47 silly mapToRegistry   scope: null,
+47 silly mapToRegistry   escapedName: 'laravel-elixir-webpack-official',
+47 silly mapToRegistry   name: 'laravel-elixir-webpack-official',
+47 silly mapToRegistry   rawSpec: '',
+47 silly mapToRegistry   spec: 'latest',
+47 silly mapToRegistry   type: 'tag' }
+48 silly mapToRegistry uri https://registry.npmjs.org/laravel-elixir-webpack-official
+49 silly fetchNamedPackageData lodash
+50 silly mapToRegistry name lodash
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://registry.npmjs.org/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'lodash',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   escapedName: 'lodash',
+53 silly mapToRegistry   name: 'lodash',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://registry.npmjs.org/lodash
+55 silly fetchNamedPackageData vue
+56 silly mapToRegistry name vue
+57 silly mapToRegistry using default registry
+58 silly mapToRegistry registry https://registry.npmjs.org/
+59 silly mapToRegistry data Result {
+59 silly mapToRegistry   raw: 'vue',
+59 silly mapToRegistry   scope: null,
+59 silly mapToRegistry   escapedName: 'vue',
+59 silly mapToRegistry   name: 'vue',
+59 silly mapToRegistry   rawSpec: '',
+59 silly mapToRegistry   spec: 'latest',
+59 silly mapToRegistry   type: 'tag' }
+60 silly mapToRegistry uri https://registry.npmjs.org/vue
+61 silly fetchNamedPackageData vue-resource
+62 silly mapToRegistry name vue-resource
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://registry.npmjs.org/
+65 silly mapToRegistry data Result {
+65 silly mapToRegistry   raw: 'vue-resource',
+65 silly mapToRegistry   scope: null,
+65 silly mapToRegistry   escapedName: 'vue-resource',
+65 silly mapToRegistry   name: 'vue-resource',
+65 silly mapToRegistry   rawSpec: '',
+65 silly mapToRegistry   spec: 'latest',
+65 silly mapToRegistry   type: 'tag' }
+66 silly mapToRegistry uri https://registry.npmjs.org/vue-resource
+67 verbose request uri https://registry.npmjs.org/bootstrap-sass
+68 verbose request no auth needed
+69 info attempt registry request try #1 at 4:22:15 AM
+70 verbose request id ceb8411dcee8b406
+71 http request GET https://registry.npmjs.org/bootstrap-sass
+72 verbose request uri https://registry.npmjs.org/laravel-elixir-vue-2
+73 verbose request no auth needed
+74 info attempt registry request try #1 at 4:22:15 AM
+75 http request GET https://registry.npmjs.org/laravel-elixir-vue-2
+76 verbose request uri https://registry.npmjs.org/laravel-elixir
+77 verbose request no auth needed
+78 info attempt registry request try #1 at 4:22:15 AM
+79 http request GET https://registry.npmjs.org/laravel-elixir
+80 verbose request uri https://registry.npmjs.org/jquery
+81 verbose request no auth needed
+82 info attempt registry request try #1 at 4:22:15 AM
+83 http request GET https://registry.npmjs.org/jquery
+84 verbose request uri https://registry.npmjs.org/laravel-elixir-webpack-official
+85 verbose request no auth needed
+86 info attempt registry request try #1 at 4:22:15 AM
+87 http request GET https://registry.npmjs.org/laravel-elixir-webpack-official
+88 verbose request uri https://registry.npmjs.org/vue-resource
+89 verbose request no auth needed
+90 info attempt registry request try #1 at 4:22:15 AM
+91 http request GET https://registry.npmjs.org/vue-resource
+92 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+93 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+94 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+95 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+96 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+97 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+98 verbose request uri https://registry.npmjs.org/lodash
+99 verbose request no auth needed
+100 info attempt registry request try #1 at 4:22:15 AM
+101 verbose etag "474U1APD2DVWW4BGGD8HEQ78E"
+102 http request GET https://registry.npmjs.org/lodash
+103 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+104 verbose request uri https://registry.npmjs.org/vue
+105 verbose request no auth needed
+106 info attempt registry request try #1 at 4:22:15 AM
+107 verbose etag "349CZID79V0DU8CEYEKCCU5UV"
+108 http request GET https://registry.npmjs.org/vue
+109 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+110 info attempt registry request try #2 at 4:22:25 AM
+111 http request GET https://registry.npmjs.org/bootstrap-sass
+112 info attempt registry request try #2 at 4:22:25 AM
+113 http request GET https://registry.npmjs.org/laravel-elixir-vue-2
+114 info attempt registry request try #2 at 4:22:25 AM
+115 http request GET https://registry.npmjs.org/laravel-elixir
+116 info attempt registry request try #2 at 4:22:25 AM
+117 http request GET https://registry.npmjs.org/jquery
+118 info attempt registry request try #2 at 4:22:25 AM
+119 http request GET https://registry.npmjs.org/laravel-elixir-webpack-official
+120 info attempt registry request try #2 at 4:22:25 AM
+121 http request GET https://registry.npmjs.org/vue-resource
+122 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+123 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+124 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+125 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+126 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+127 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+128 info attempt registry request try #2 at 4:22:25 AM
+129 verbose etag "474U1APD2DVWW4BGGD8HEQ78E"
+130 http request GET https://registry.npmjs.org/lodash
+131 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+132 info attempt registry request try #2 at 4:22:25 AM
+133 verbose etag "349CZID79V0DU8CEYEKCCU5UV"
+134 http request GET https://registry.npmjs.org/vue
+135 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+136 info attempt registry request try #3 at 4:23:25 AM
+137 http request GET https://registry.npmjs.org/bootstrap-sass
+138 info attempt registry request try #3 at 4:23:25 AM
+139 http request GET https://registry.npmjs.org/laravel-elixir-vue-2
+140 info attempt registry request try #3 at 4:23:25 AM
+141 http request GET https://registry.npmjs.org/laravel-elixir
+142 info attempt registry request try #3 at 4:23:25 AM
+143 http request GET https://registry.npmjs.org/jquery
+144 info attempt registry request try #3 at 4:23:25 AM
+145 http request GET https://registry.npmjs.org/laravel-elixir-webpack-official
+146 info attempt registry request try #3 at 4:23:25 AM
+147 http request GET https://registry.npmjs.org/vue-resource
+148 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+148 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+148 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+148 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+148 silly fetchPackageMetaData  error for bootstrap-sass@^3.3.7 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+148 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+148 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+148 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+148 silly fetchPackageMetaData   code: 'ENOENT',
+148 silly fetchPackageMetaData   errno: 'ENOENT',
+148 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+148 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+148 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+148 silly fetchPackageMetaData   port: 443 }
+149 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+149 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+149 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+149 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+149 silly fetchPackageMetaData  error for laravel-elixir-vue-2@^0.2.0 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+149 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+149 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+149 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+149 silly fetchPackageMetaData   code: 'ENOENT',
+149 silly fetchPackageMetaData   errno: 'ENOENT',
+149 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+149 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+149 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+149 silly fetchPackageMetaData   port: 443 }
+150 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+150 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+150 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+150 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+150 silly fetchPackageMetaData  error for laravel-elixir@^6.0.0-9 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+150 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+150 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+150 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+150 silly fetchPackageMetaData   code: 'ENOENT',
+150 silly fetchPackageMetaData   errno: 'ENOENT',
+150 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+150 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+150 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+150 silly fetchPackageMetaData   port: 443 }
+151 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+151 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+151 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+151 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+151 silly fetchPackageMetaData  error for jquery@^3.1.0 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+151 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+151 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+151 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+151 silly fetchPackageMetaData   code: 'ENOENT',
+151 silly fetchPackageMetaData   errno: 'ENOENT',
+151 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+151 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+151 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+151 silly fetchPackageMetaData   port: 443 }
+152 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+152 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+152 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+152 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+152 silly fetchPackageMetaData  error for laravel-elixir-webpack-official@^1.0.2 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+152 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+152 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+152 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+152 silly fetchPackageMetaData   code: 'ENOENT',
+152 silly fetchPackageMetaData   errno: 'ENOENT',
+152 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+152 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+152 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+152 silly fetchPackageMetaData   port: 443 }
+153 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+153 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+153 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+153 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+153 silly fetchPackageMetaData  error for vue-resource@^1.0.3 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+153 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+153 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+153 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+153 silly fetchPackageMetaData   code: 'ENOENT',
+153 silly fetchPackageMetaData   errno: 'ENOENT',
+153 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+153 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+153 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+153 silly fetchPackageMetaData   port: 443 }
+154 info attempt registry request try #3 at 4:23:25 AM
+155 verbose etag "474U1APD2DVWW4BGGD8HEQ78E"
+156 http request GET https://registry.npmjs.org/lodash
+157 silly get cb [ 304, undefined ]
+158 verbose etag https://registry.npmjs.org/lodash from cache
+159 verbose get saving lodash to C:\Users\HAYKAY\AppData\Roaming\npm-cache\registry.npmjs.org\lodash\.cache.json
+160 verbose correctMkdir C:\Users\HAYKAY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+161 info attempt registry request try #3 at 4:23:25 AM
+162 verbose etag "349CZID79V0DU8CEYEKCCU5UV"
+163 http request GET https://registry.npmjs.org/vue
+164 silly get cb [ 304, undefined ]
+165 verbose etag https://registry.npmjs.org/vue from cache
+166 verbose get saving vue to C:\Users\HAYKAY\AppData\Roaming\npm-cache\registry.npmjs.org\vue\.cache.json
+167 verbose correctMkdir C:\Users\HAYKAY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+168 silly fetchNamedPackageData No valid target from cache, forcing network
+169 verbose request uri https://registry.npmjs.org/lodash
+170 verbose request no auth needed
+171 info attempt registry request try #1 at 4:23:25 AM
+172 http request GET https://registry.npmjs.org/lodash
+173 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+174 silly fetchNamedPackageData No valid target from cache, forcing network
+175 verbose request uri https://registry.npmjs.org/vue
+176 verbose request no auth needed
+177 info attempt registry request try #1 at 4:23:25 AM
+178 http request GET https://registry.npmjs.org/vue
+179 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+180 info attempt registry request try #2 at 4:23:35 AM
+181 http request GET https://registry.npmjs.org/lodash
+182 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+183 info attempt registry request try #2 at 4:23:35 AM
+184 http request GET https://registry.npmjs.org/vue
+185 info retry will retry, error on last attempt: Error: getaddrinfo ENOENT registry.npmjs.org:443
+186 info attempt registry request try #3 at 4:24:35 AM
+187 http request GET https://registry.npmjs.org/lodash
+188 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+188 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+188 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+188 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+188 silly fetchPackageMetaData  error for lodash@^4.16.2 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+188 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+188 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+188 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+188 silly fetchPackageMetaData   code: 'ENOENT',
+188 silly fetchPackageMetaData   errno: 'ENOENT',
+188 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+188 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+188 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+188 silly fetchPackageMetaData   port: 443 }
+189 info attempt registry request try #3 at 4:24:35 AM
+190 http request GET https://registry.npmjs.org/vue
+191 silly fetchPackageMetaData Error: getaddrinfo ENOENT registry.npmjs.org:443
+191 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+191 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+191 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+191 silly fetchPackageMetaData  error for vue@^2.0.1 { Error: getaddrinfo ENOENT registry.npmjs.org:443
+191 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:1026:11)
+191 silly fetchPackageMetaData     at errnoException (dns.js:33:15)
+191 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+191 silly fetchPackageMetaData   code: 'ENOENT',
+191 silly fetchPackageMetaData   errno: 'ENOENT',
+191 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+191 silly fetchPackageMetaData   hostname: 'registry.npmjs.org',
+191 silly fetchPackageMetaData   host: 'registry.npmjs.org',
+191 silly fetchPackageMetaData   port: 443 }
+192 silly rollbackFailedOptional Starting
+193 silly rollbackFailedOptional Finishing
+194 silly runTopLevelLifecycles Starting
+195 silly runTopLevelLifecycles Finishing
+196 silly install printInstalled
+197 verbose stack Error: getaddrinfo ENOENT registry.npmjs.org:443
+197 verbose stack     at Object.exports._errnoException (util.js:1026:11)
+197 verbose stack     at errnoException (dns.js:33:15)
+197 verbose stack     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:79:26)
+198 verbose cwd c:\laragon\www\gmusic
+199 error Windows_NT 10.0.10240
+200 error argv "C:\\laragon\\bin\\nodejs\\node.exe" "C:\\laragon\\bin\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+201 error node v6.4.0
+202 error npm  v3.10.3
+203 error code ENOENT
+204 error errno ENOENT
+205 error syscall getaddrinfo
+206 error enoent getaddrinfo ENOENT registry.npmjs.org:443
+207 error enoent getaddrinfo ENOENT registry.npmjs.org:443
+207 error enoent This is most likely not a problem with npm itself
+207 error enoent and is related to npm not being able to find a file.
+208 verbose exit [ 1, true ]
