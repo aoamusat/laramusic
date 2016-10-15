@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../musicmogul" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-dompdf" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/composer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/dompdf/dompdf" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/elasticsearch/elasticsearch" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/firebase/php-jwt" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/gloudemans/shoppingcart" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/auth" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/container" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/contracts" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/database" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/encryption" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/events" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/http" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/session" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/support" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/lumen-installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/passport" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/lcobucci/jwt" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/league/event" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/league/oauth2-server" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/maximebf/debugbar" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phenx/php-font-lib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phenx/php-svg-lib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phpseclib/phpseclib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/http-message" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/log" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/react/promise" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/shift31/laravel-elasticsearch" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/http-foundation" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/http-kernel" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/psr-http-message-bridge" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/var-dumper" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/zendframework/zend-diactoros" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-dompdf" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/composer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/dompdf/dompdf" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/elasticsearch/elasticsearch" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/firebase/php-jwt" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/gloudemans/shoppingcart" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/auth" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/container" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/contracts" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/database" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/encryption" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/events" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/http" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/session" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/support" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/lumen-installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/passport" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/lcobucci/jwt" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/league/event" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/league/oauth2-server" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/maximebf/debugbar" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phenx/php-font-lib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phenx/php-svg-lib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/phpseclib/phpseclib" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/http-message" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/log" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/react/promise" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/shift31/laravel-elasticsearch" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/http-foundation" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/http-kernel" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/psr-http-message-bridge" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/var-dumper" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/zendframework/zend-diactoros" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
